@@ -3,9 +3,12 @@
 <h2>👌 Completed Projects:</h2>
 
 <h2>👨‍💻 Ongoing Projects:</h2>
+<h3> 🖥️📈 Data Analysis</h3>
+<ul>
+  <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Analyzing an energy dataset</a></li> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.
+</ul>
+
 <!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
