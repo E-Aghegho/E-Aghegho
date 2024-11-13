@@ -7,7 +7,7 @@
 <ul>
   <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Analyzing an Energy Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements">A Dashboard Meeting Business Requirements</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
-  <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Assessing the Quality of a Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
+  <li><a href="https://github.com/E-Aghegho/Assessing-the-Quality-of-a-Dataset">Assessing the Quality of a Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Hambot</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Retrieving User Activity Data on an Online Forum</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
 </ul>
