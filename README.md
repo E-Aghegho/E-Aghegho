@@ -1,6 +1,10 @@
 <h1>Hi, I'm Voke! <a href="https://www.linkedin.com/in/emuvoke-aghegho/">Aspiring Data Analyst/Software Developer</a></h1>
 
 <h2>👌 Completed Projects:</h2>
+<ul>
+  <li><a href="https://github.com/E-Aghegho/Hambot">Hambot</a> <br> A Shakespearean language generator.</li>
+</ul>
+
 
 <h2>👨‍💻 Ongoing Projects:</h2>
 <h3> 🖥️📈 Data Analysis</h3>
@@ -8,7 +12,6 @@
   <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Analyzing an Energy Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements">A Dashboard Meeting Business Requirements</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/Assessing-the-Quality-of-a-Dataset">Assessing the Quality of a Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
-  <li><a href="https://github.com/E-Aghegho/Hambot">Hambot</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main">Retrieving User Activity Data on an Online Forum</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
 </ul>
 
