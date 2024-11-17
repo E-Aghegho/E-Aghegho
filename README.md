@@ -15,6 +15,11 @@
   <li><a href="https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main">Retrieving User Activity Data on an Online Forum</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
 </ul>
 
+<h3> 🕸️ Programming</h3>
+<ul>
+  <li>Personal Page<br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
+</ul>
+
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
