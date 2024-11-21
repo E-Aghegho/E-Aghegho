@@ -18,6 +18,7 @@
 <h3> 🕸️ Programming</h3>
 <ul>
   <li>Personal Page<br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
+  <li>Shoppiverse Page<br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
 </ul>
 
 <!--
