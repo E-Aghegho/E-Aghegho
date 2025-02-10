@@ -3,6 +3,7 @@
 <h2>👌 Completed Projects:</h2>
 <ul>
   <li><a href="https://github.com/E-Aghegho/Hambot">Hambot</a> <br> A Shakespearean language generator.</li>
+   <li><a href="https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main">Retrieving User Activity Data on an Online Forum</a> <br> Navigating public sentiment on a social media website.</li>
 </ul>
 
 
@@ -12,7 +13,6 @@
   <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Analyzing an Energy Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements">A Dashboard Meeting Business Requirements</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/Assessing-the-Quality-of-a-Dataset">Assessing the Quality of a Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
-  <li><a href="https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main">Retrieving User Activity Data on an Online Forum</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
 </ul>
 
 <h3> 🕸️ Programming</h3>
