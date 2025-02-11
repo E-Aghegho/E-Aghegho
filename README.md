@@ -1,4 +1,4 @@
-<h1>Hi, I'm Voke!<a href="https://www.linkedin.com/in/emuvoke-aghegho/"> Aspiring Data Analyst/Software Developer!!</a></h1>
+<h1>Hi, I'm Voke!<a href="https://www.linkedin.com/in/emuvoke-aghegho/"> Aspiring Data Analyst/Software Developer!</a></h1>
 
 <h2>👌 Completed Projects:</h2>
 <ul>
