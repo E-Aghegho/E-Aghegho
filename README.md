@@ -4,6 +4,7 @@
 <ul>
   <li><a href="https://github.com/E-Aghegho/Hambot">Hambot</a> <br> A Shakespearean language generator.</li>
    <li><a href="https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main">Retrieving User Activity Data on an Online Forum</a> <br> Navigating public sentiment on a social media website.</li>
+   <li><a href="https://e-aghegho.github.io/">Personal Page</a><br> A brief introduction about me.</li>
 </ul>
 
 
@@ -17,7 +18,6 @@
 
 <h3> 🕸️ Programming</h3>
 <ul>
-  <li>Personal Page<br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li>Shoppiverse Page<br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
 </ul>
 
