@@ -6,6 +6,7 @@
    <li><a href="https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main">Retrieving User Activity Data on an Online Forum</a> <br> Navigating public sentiment on a social media website.</li>
    <li><a href="https://e-aghegho.github.io/">Personal Page</a><br> A brief introduction about me.</li>
    <li><a href="https://github.com/E-Aghegho/Classifying-Credit-Card-Applications-in-R">Classifying Credit cards</a><br> More details of the project mentioned on my CV. </li>
+  <li><a href="https://github.com/E-Aghegho/Iris_Clustering">An example of using clustering.</li>
 </ul>
 
 
