@@ -7,6 +7,7 @@
    <li><a href="https://e-aghegho.github.io/">Personal Page</a><br> A brief introduction about me.</li>
    <li><a href="https://github.com/E-Aghegho/Classifying-Credit-Card-Applications-in-R">Classifying Credit cards</a><br> More details of the project mentioned on my CV. </li>
   <li><a href="https://github.com/E-Aghegho/Iris_Clustering">Iris Clustering </a> <br> An example of using clustering.</li>
+  <li><a href="https://github.com/E-Aghegho/First-Regression-in-R">First Linear Regression in R</a> <br> An attempt at using linear regression for descriptive and predictive analysis. </li> 
 </ul>
 
 
@@ -15,7 +16,7 @@
 <ul>
   <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Analyzing an Energy Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements">A Dashboard Meeting Business Requirements</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
-  <li><a href="https://github.com/E-Aghegho/Assessing-the-Quality-of-a-Dataset">Assessing the Quality of a Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
+  <li><a href="https://github.com/E-Aghegho/Assessing-the-Quality-of-a-Dataset">Assessing the Quality of a Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li> 
 </ul>
 
 <h3> 🕸️ Programming</h3>
