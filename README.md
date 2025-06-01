@@ -7,7 +7,7 @@
    <li><a href="https://github.com/E-Aghegho/Classifying-Credit-Card-Applications-in-R">Classifying Credit cards</a><br> More details of the project mentioned on my CV. </li>
   <li><a href="https://github.com/E-Aghegho/Iris_Clustering">Iris Clustering </a> <br> An example of using clustering.</li>
   <li><a href="https://github.com/E-Aghegho/First-Regression-in-R">First Linear Regression in R</a> <br> An attempt at using linear regression for descriptive and predictive analysis. </li> 
-  <li><a href="https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main">Retrieving User Activity Data on an Online Forum</a> <br> Navigating public sentiment on a social media website.</li>
+  <li><a href="https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main">Retrieving User Activity Data on an Online Forum</a> <br> Navigating public sentiment on a social media website using SQL.</li>
 </ul>
 
 
