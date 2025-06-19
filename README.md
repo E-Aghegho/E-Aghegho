@@ -2,8 +2,9 @@
 
 <h2>👌 Completed Projects:</h2>
 <ul>
+  <li><a href="https://github.com/E-Aghegho/PizzaViz">Pizza Viz</a> <br> Power BI-powered data visualizations that break down pizza sales trends and customer preferences.</li>
   <li><a href="https://github.com/E-Aghegho/Hambot">Hambot</a> <br> A Shakespearean language generator.</li>
-   <li><a href="https://e-aghegho.github.io/">Personal Page</a><br> A brief introduction about me.</li>
+   <li><a href="https://e-aghegho.github.io/">Personal Webpage</a><br> A brief introduction about me.</li>
    <li><a href="https://github.com/E-Aghegho/Classifying-Credit-Card-Applications-in-R">Classifying Credit cards</a><br> More details of the project mentioned on my CV. </li>
   <li><a href="https://github.com/E-Aghegho/Iris_Clustering">Iris Clustering </a> <br> An example of using clustering.</li>
   <li><a href="https://github.com/E-Aghegho/First-Regression-in-R">First Linear Regression in R</a> <br> An attempt at using linear regression for descriptive and predictive analysis. </li> 
