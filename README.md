@@ -18,7 +18,7 @@
   <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">Analyzing an Energy Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements">A Dashboard Meeting Business Requirements</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
   <li><a href="https://github.com/E-Aghegho/Assessing-the-Quality-of-a-Dataset">Assessing the Quality of a Dataset</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li> 
-  <li><a href="https://github.com/E-Aghegho/Analysing-an-energy-dataset">A Dashboard on customer purchasing</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
+  <li><a href="https://github.com/E-Aghegho/Retail-Analytics-with-Power-BI-Blinkit-Case-Study">Retail Analytics with Power BI: Blinkit Case Study</a> <br> I will post the full project on GitHub in due time. Please contact me if you wish to see it earlier.</li>
 </ul>
 
 <h3> 🕸️ Programming</h3>
