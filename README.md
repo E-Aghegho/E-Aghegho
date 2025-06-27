@@ -30,12 +30,16 @@
 
 ### 📊 Data Analysis & Visualisation
 - **[Analysing an Energy Dataset](https://github.com/E-Aghegho/Analysing-an-energy-dataset)**  
+  Exploratory analysis of energy consumption metrics and insights  
 - **[Dashboard Meeting Business Requirements](https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements)**  
+  Power BI dashboard tailored to meet specific business KPIs  
 - **[Retail Analytics – Blinkit Case Study](https://github.com/E-Aghegho/Retail-Analytics-with-Power-BI-Blinkit-Case-Study)**  
+  An interactive Power BI dashboard designed to analyze Blinkit’s sales performance
+
 
 ### 🧠 Data Science
 - **[Assessing the Quality of a Dataset](https://github.com/E-Aghegho/Assessing-the-Quality-of-a-Dataset)**  
-  *Methods not yet detailed; could involve statistical profiling or ML-based anomaly checks*  
+  *An EDA using statisitcal modelling.*  
 
 ### 🧑‍💻 Web & App Development
 - **Shoppiverse Page**  
