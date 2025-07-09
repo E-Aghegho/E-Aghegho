@@ -8,7 +8,9 @@
 - **[Pizza Viz](https://github.com/E-Aghegho/PizzaViz)**  
   Power BI visualisations reveal trends in sales and customer preferences  
 - **[User Activity on a Forum](https://github.com/E-Aghegho/Retrieving-User-Activity-Data-on-an-Online-Forum/tree/main)**  
-  SQL used to evaluate user engagement and sentiment  
+  SQL used to evaluate user engagement and sentiment
+- **[Retail Analytics – Blinkit Case Study](https://github.com/E-Aghegho/Retail-Analytics-with-Power-BI-Blinkit-Case-Study)**  
+  An interactive Power BI dashboard designed to analyze Blinkit’s sales performance
 
 ### 🧠 Data Science
 - **[Classifying Credit Cards](https://github.com/E-Aghegho/Classifying-Credit-Card-Applications-in-R)**  
@@ -33,8 +35,6 @@
   Exploratory analysis of energy consumption metrics and insights  
 - **[Dashboard Meeting Business Requirements](https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements)**  
   Power BI dashboard tailored to meet specific business KPIs  
-- **[Retail Analytics – Blinkit Case Study](https://github.com/E-Aghegho/Retail-Analytics-with-Power-BI-Blinkit-Case-Study)**  
-  An interactive Power BI dashboard designed to analyze Blinkit’s sales performance
 
 
 ### 🧠 Data Science
