@@ -34,7 +34,9 @@
 - **[Analysing an Energy Dataset](https://github.com/E-Aghegho/Analysing-an-energy-dataset)**  
   Exploratory analysis of energy consumption metrics and insights  
 - **[Dashboard Meeting Business Requirements](https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements)**  
-  Power BI dashboard tailored to meet specific business KPIs  
+  Power BI dashboard tailored to meet specific business KPIs
+- **[Road Accident Analysis Dashboard](https://github.com/E-Aghegho/A-Dashboard-Meeting-Business-Requirements)**  
+  Power BI dashboard tailored to monitor road safety KPIs  
 
 
 ### 🧠 Data Science
