@@ -1,4 +1,4 @@
-# Hi, I'm Voke, 👋  [Junior Data Analyst / Data Scientist!](https://www.linkedin.com/in/emuvoke-aghegho/)
+# Hi, I'm Voke! 👋  [Junior Data Analyst / Data Scientist!](https://www.linkedin.com/in/emuvoke-aghegho/)
 
 ---
 
