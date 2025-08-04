@@ -2,7 +2,7 @@
 
 ---
 
-## 🟢 Completed Projects
+## 🟢 Completed Projectss
 
 ### 📊 Data Analysis & Visualisation
 - **[Pizza Viz](https://github.com/E-Aghegho/PizzaViz)**  
