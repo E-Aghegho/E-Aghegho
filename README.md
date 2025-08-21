@@ -49,5 +49,5 @@
 
 ---
 
-## 🤳 Connect with Me
+## 🤳 Connect with Me!
 **LinkedIn:** [Emuvoke Aghegho](https://www.linkedin.com/in/emuvoke-aghegho/)
